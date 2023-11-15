@@ -1,0 +1,6 @@
+/home/zzq/work/audio_player/build/CMakeFiles/rebuild_cache.dir
+/home/zzq/work/audio_player/build/CMakeFiles/edit_cache.dir
+/home/zzq/work/audio_player/build/CMakeFiles/ffplay.dir
+/home/zzq/work/audio_player/build/CMakeFiles/play_audio.dir
+/home/zzq/work/audio_player/build/CMakeFiles/learn.dir
+/home/zzq/work/audio_player/build/CMakeFiles/audio_player.dir

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zzq/work/audio_player/play_audio.cc
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+libavcodec/avcodec.h
+-
+libavformat/avformat.h
+-
+libswresample/swresample.h
+-
+SDL2/SDL.h
+-
+

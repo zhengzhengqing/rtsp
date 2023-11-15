@@ -1,0 +1,1 @@
+/usr/bin/c++   -g  -rdynamic CMakeFiles/audio_player.dir/audio_player.cc.o  -o audio_player  -lSDL2 -lavformat -lavcodec -lavutil -lswresample -lgstreamer-1.0 -lgobject-2.0 -lglib-2.0 
